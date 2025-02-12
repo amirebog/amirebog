@@ -1,32 +1,28 @@
-🌟  AMIR og
+AMIR og
 
+📖 About me
 
+Hi! I'm a passionate developer specializing in building web applications using modern frameworks and technologies. Solving complex problems and delivering high-quality software solutions are my passions.
 
+✨ Skills and Technologies
 
+🧑‍💻 JavaScript: Advanced knowledge in front-end and back-end development.
 
-📖 درباره من
+🐍 Python: Experience in back-end development and data analysis.
 
-سلام! من یک توسعه‌دهنده پرشور هستم که در ساخت برنامه‌های وب با استفاده از فریم‌ورک‌ها و تکنولوژی‌های مدرن تخصص دارم. حل مسائل پیچیده و ارائه راه‌حل‌های نرم‌افزاری باکیفیت از علاقه‌مندی‌های من است.
+🚀 Next.js: Building fast and scalable websites.
 
-✨ مهارت‌ها و تکنولوژی‌ها
+🅰️ Angular: Developing complex and enterprise applications.
 
-🧑‍💻 جاوااسکریپت: دانش پیشرفته در توسعه فرانت‌اند و بک‌اند.
+⚛️ React.js: Designing modern and responsive user interfaces.
 
-🐍 پایتون: تجربه در توسعه بک‌اند و تحلیل داده.
+ 📫 How to contact me
 
-🚀 Next.js: ساخت وب‌سایت‌های سریع و مقیاس‌پذیر.
+📧 Email: amireb0047@gmail.com
 
-🅰️ Angular: توسعه برنامه‌های پیچیده و سازمانی.
+🌐 Website: vebta.ir
 
-⚛️ React.js: طراحی رابط‌های کاربری مدرن و واکنش‌گرا.
+💬 Instagram: https://www.instagram.com/amireb._.og0047/
 
-📫 راه‌های ارتباطی با من
-
-📧 ایمیل: amireb0047@gmail.com
-
-🌐 وب‌سایت: vebta.ir
-
-💬 اینستاگرام:https://www.instagram.com/amireb._.og0047/
-
-همیشه آماده همکاری و پروژه‌های هیجان‌انگیز هستم! خوشحال می‌شوم با شما در ارتباط باشم. 😊
+I am always ready for collaboration and exciting projects! I will be happy to be in touch with you. 😊
 
