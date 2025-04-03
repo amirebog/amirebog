@@ -6,6 +6,8 @@
 
 **🎮 Digital Artisan | 🧠 Neural Architect | 🚀 Tech Explorer**
 
+[![LinkedIn](https://img.shields.io/badge/Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vebta.ir/AMB/amir)
+
 </div>
 
 
@@ -27,19 +29,10 @@
 ## **🎨 Featured Projects**
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=AwesomeProject1&theme=radical)](https://github.com/YourUsername/AwesomeProject1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=AwesomeProject2&theme=merko)](https://github.com/YourUsername/AwesomeProject2)
+[![amireb GitHub stats](https://github-readme-stats.vercel.app/api?username=amirebog)](https://github.com/amirebog/github-readme-stats)
 
 </div>
 
----
-
-## **📊 GitHub Galaxy**
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/YourUsername?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTehran)
-
-</div>
 
 ---
 
@@ -47,7 +40,6 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
 </div>
