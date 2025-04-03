@@ -56,13 +56,3 @@
 
 </div>
 
----
-
-### **🎨 How to Use This Design**
-1. Replace all `YourUsername` with your GitHub username
-2. Add your actual project names
-3. Create an `assets` folder in your profile repo for custom images
-4. For animated banner, upload a 1500x500px GIF named `cosmic-banner.gif`
-5. Customize the color schemes by changing the theme parameters
-
-**Pro Tip:** Use [Shields.io](https://shields.io) to create custom badges and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for dynamic stats cards!
