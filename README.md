@@ -1,10 +1,10 @@
-# **✨ GitHub Profile Masterpiece ✨**
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/assets/neon-banner.gif" width="100%">
 
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 800; font-size: 3rem; background: linear-gradient(90deg, #ff4dff, #00f2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 15px rgba(255,77,255,0.3); margin-bottom: 0">
-    [Your Name]
+    Amir EB
   </h1>
   
   <p style="font-family: 'Courier New', monospace; font-size: 1.2rem; color: #a0a0ff; letter-spacing: 2px">
