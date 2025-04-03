@@ -6,6 +6,8 @@
 
 **🎮 Digital Artisan | 🧠 Neural Architect | 🚀 Tech Explorer**
 
+**Be sure to visit my terminal, you won't regret it.**
+
 [![LinkedIn](https://img.shields.io/badge/Link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vebta.ir/AMB/amir)
 
 </div>
